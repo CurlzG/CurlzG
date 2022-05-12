@@ -1,10 +1,12 @@
 <h1> Hi there 👋 </h1>  <br>
-Hello I am currently in my third year at Victoria University studying towards getting a Bachelor of Science in Computer Science specialising in Artificial intelligence <br> 
+I want to be a back-end developer that is part of a team that focuses on creating and designing complex algorithms for projects. I want to help people create unique applications that achieve different outcomes. I also have a strong interest in Artificial Intelligence.
 
-- 🔭 I’m currently working on, getting my uni assignments finished then willing to work on anything <br>
-- 🌱 I’m currently learning Python/Java/C# <br>
+I want to be part of a team that strives to do something interesting, to make impact on the world. Being able to say I was part of a team that could make a client’s idea into a reality would be amazing. 
+<br> 
+
+- 🔭 I’m currently working on, ourPaws and finding a job <br>
+- 🌱 I’m currently learning JavaScript/React/Python/Java <br>
 - 👯 I’m looking to collaborate on with any thing <br>
-- 🤔 I’m looking for help with, not alot really maybe looking in gradient descent in AI. <br>
 - 💬 Ask me about anything or if you need a help debugging or coding I am always up for it <br>
 
 <!--
